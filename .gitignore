@@ -1,0 +1,5 @@
+*.pyc
+*.zip
+*.jpg
+*.tflearn
+*.tar.gz
